@@ -10,7 +10,7 @@ theme: jekyll-theme-minimal
 ## University of Chicago
 
 ### ECON 25530 - Behavioral Development Economics 
-Winter 2023: (TA under Prof. Anne Karing)
+Winter 2023: TA under Prof. Anne Karing
 
 ## Michigan State University
 
