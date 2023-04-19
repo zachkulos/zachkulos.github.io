@@ -1,7 +1,8 @@
 ---
 layout: page
 title: "Teaching"
-permalink: /Teaching/
+permalink: /teaching/
+theme: jekyll-theme-minimal
 ---
 
 # Teaching Experience
