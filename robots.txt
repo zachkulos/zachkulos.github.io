@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://zachkulos.github.io/zachkulos/sitemap.xml
+Sitemap: https://zachkulos.github.io//sitemap.xml
