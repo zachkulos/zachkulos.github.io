@@ -124,7 +124,7 @@ table th {
   color: var(--global-text-color);
 }
 table td {
-  font-size: 1rem;
+  font-size: 1.5rem;
 }
 
 a,
@@ -155,7 +155,7 @@ blockquote {
 }
 
 .equation {
-  margin-bottom: 1rem;
+  margin-bottom: 1.5rem;
   text-align: center;
 }
 
@@ -203,11 +203,11 @@ blockquote {
 }
 
 .profile.float-right {
-  margin-left: 1rem;
+  margin-left: 1.5rem;
 }
 
 .profile.float-left {
-  margin-right: 1rem;
+  margin-right: 1.5rem;
 }
 
 @media (min-width: 576px) {
@@ -219,7 +219,7 @@ blockquote {
   }
 }
 .post-description {
-  margin-bottom: 1rem;
+  margin-bottom: 1.5rem;
   font-size: 0.875rem;
 }
 .post-description a {
@@ -337,7 +337,7 @@ blockquote {
   text-align: center;
 }
 .social .contact-icons {
-  font-size: 1rem;
+  font-size: 1.5rem;
 }
 .social .contact-icons a i::before {
   color: var(--global-text-color);
@@ -398,7 +398,7 @@ footer.sticky-bottom {
 .header-bar {
   border-bottom: 1px solid var(--global-divider-color);
   text-align: center;
-  padding-top: 1rem;
+  padding-top: 1.5rem;
   padding-bottom: 3rem;
 }
 .header-bar h1 {
@@ -409,7 +409,7 @@ footer.sticky-bottom {
 .tag-list {
   border-bottom: 1px solid var(--global-divider-color);
   text-align: center;
-  padding-top: 1rem;
+  padding-top: 1.5rem;
 }
 .tag-list ul {
   justify-content: center;
@@ -419,7 +419,7 @@ footer.sticky-bottom {
 .tag-list ul li {
   list-style: none;
   display: inline-block;
-  padding: 1rem 0.5rem;
+  padding: 1.5rem 0.5rem;
   color: var(--global-text-color-light);
 }
 
@@ -431,8 +431,8 @@ footer.sticky-bottom {
 .post-list li {
   border-bottom: 1px solid var(--global-divider-color);
   list-style: none;
-  padding-top: 1rem;
-  padding-bottom: 1rem;
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
 }
 .post-list li .post-meta {
   color: var(--global-text-color-light);
@@ -498,23 +498,23 @@ footer.sticky-bottom {
   color: var(--global-divider-color);
   border-bottom: 1px solid var(--global-divider-color);
   padding-top: 0.5rem;
-  margin-top: 1rem;
-  margin-bottom: 1rem;
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
   text-align: right;
 }
 
 .publications {
-  margin-top: 1rem;
+  margin-top: 1.5rem;
 }
 .publications h1 {
   color: var(--global-theme-color);
-  font-size: 1rem;
+  font-size: 1.5rem;
   text-align: center;
   margin-top: 1em;
   margin-bottom: 1em;
 }
 .publications h2 {
-  margin-bottom: 1rem;
+  margin-bottom: 1.5rem;
 }
 .publications h2 span {
   font-size: 1.5rem;
@@ -522,9 +522,9 @@ footer.sticky-bottom {
 .publications h2.year {
   color: var(--global-divider-color);
   border-top: 1px solid var(--global-divider-color);
-  padding-top: 1rem;
-  margin-top: 1rem;
-  margin-bottom: -1rem;
+  padding-top: 1.5rem;
+  margin-top: 1.5rem;
+  margin-bottom: -1.5rem;
   text-align: right;
 }
 .publications ol.bibliography {
@@ -533,7 +533,7 @@ footer.sticky-bottom {
   margin-top: 0;
 }
 .publications ol.bibliography li {
-  margin-bottom: 1rem;
+  margin-bottom: 1.5rem;
 }
 .publications ol.bibliography li .preview {
   width: 100%;
@@ -541,14 +541,14 @@ footer.sticky-bottom {
   max-width: 200px;
 }
 .publications ol.bibliography li .abbr {
-  height: 1rem;
+  height: 1.5rem;
   margin-bottom: 0.5rem;
 }
 .publications ol.bibliography li .abbr abbr {
   display: inline-block;
   background-color: var(--global-theme-color);
-  padding-left: 1rem;
-  padding-right: 1rem;
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
 }
 .publications ol.bibliography li .abbr abbr a {
   color: white;
@@ -586,8 +586,8 @@ footer.sticky-bottom {
 .publications ol.bibliography li .links a.btn {
   color: var(--global-text-color);
   border: 1px solid var(--global-text-color);
-  padding-left: 1rem;
-  padding-right: 1rem;
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
   padding-top: 0.25rem;
   padding-bottom: 0.25rem;
   margin-left: 0;
@@ -645,7 +645,7 @@ footer.sticky-bottom {
 }
 
 figure.highlight {
-  margin: 0 0 1rem;
+  margin: 0 0 1.5rem;
 }
 
 pre {
@@ -686,7 +686,7 @@ html.transition *:after {
   color: var(--global-text-color-light);
   font-size: 0.875rem;
   padding-top: 0.25rem;
-  padding-bottom: 1rem;
+  padding-bottom: 1.5rem;
 }
 .post .post-tags a {
   color: var(--global-text-color-light);
