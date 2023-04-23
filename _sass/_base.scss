@@ -31,7 +31,7 @@ table {
   }
 
   td {
-    font-size: 1rem;
+    font-size: 1.5rem;
   }
 }
 
@@ -65,7 +65,7 @@ blockquote {
 // Math
 
 .equation {
-  margin-bottom: 1rem;
+  margin-bottom: 1.5rem;
   text-align: center;
 }
 
@@ -127,11 +127,11 @@ blockquote {
 }
 
 .profile.float-right {
-  margin-left: 1rem;
+  margin-left: 1.5rem;
 }
 
 .profile.float-left {
-  margin-right: 1rem;
+  margin-right: 1.5rem;
 }
 
 @media (min-width: 576px) {
@@ -147,7 +147,7 @@ blockquote {
 }
 
 .post-description {
-  margin-bottom: 1rem;
+  margin-bottom: 1.5rem;
   font-size: 0.875rem;
 
   a {
@@ -302,7 +302,7 @@ blockquote {
   text-align: center;
 
   .contact-icons {
-    font-size: 1rem;
+    font-size: 1.5rem;
 
     a {
       i::before {
@@ -386,7 +386,7 @@ footer.sticky-bottom {
 .header-bar {
   border-bottom: 1px solid var(--global-divider-color);
   text-align: center;
-  padding-top: 1rem;
+  padding-top: 1.5rem;
   padding-bottom: 3rem;
 
   h1 {
@@ -398,7 +398,7 @@ footer.sticky-bottom {
 .tag-list {
   border-bottom: 1px solid var(--global-divider-color);
   text-align: center;
-  padding-top: 1rem;
+  padding-top: 1.5rem;
 
   ul {
     justify-content: center;
@@ -408,7 +408,7 @@ footer.sticky-bottom {
     li {
       list-style: none;
       display: inline-block;
-      padding: 1rem 0.5rem;
+      padding: 1.5rem 0.5rem;
       color: var(--global-text-color-light);
     }
   }
@@ -422,8 +422,8 @@ footer.sticky-bottom {
   li {
     border-bottom: 1px solid var(--global-divider-color);
     list-style: none;
-    padding-top: 1rem;
-    padding-bottom: 1rem;
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
 
     .post-meta {
       color: var(--global-text-color-light);
@@ -520,8 +520,8 @@ footer.sticky-bottom {
     color: var(--global-divider-color);
     border-bottom: 1px solid var(--global-divider-color);
     padding-top: 0.5rem;
-    margin-top: 1rem;
-    margin-bottom: 1rem;
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
     text-align: right;
   }
 }
@@ -530,18 +530,18 @@ footer.sticky-bottom {
 // Publications
 
 .publications {
-  margin-top: 1rem;
+  margin-top: 1.5rem;
 
   h1 {
     color: var(--global-theme-color);
-    font-size: 1rem;
+    font-size: 1.5rem;
     text-align: center;
     margin-top: 1em;
     margin-bottom: 1em;
   }
 
   h2 {
-    margin-bottom: 1rem;
+    margin-bottom: 1.5rem;
 
     span {
       font-size: 1.5rem;
@@ -551,9 +551,9 @@ footer.sticky-bottom {
   h2.year {
     color: var(--global-divider-color);
     border-top: 1px solid var(--global-divider-color);
-    padding-top: 1rem;
-    margin-top: 1rem;
-    margin-bottom: -1rem;
+    padding-top: 1.5rem;
+    margin-top: 1.5rem;
+    margin-bottom: -1.5rem;
     text-align: right;
   }
 
@@ -563,7 +563,7 @@ footer.sticky-bottom {
     margin-top: 0;
 
     li {
-      margin-bottom: 1rem;
+      margin-bottom: 1.5rem;
 
       .preview {
         width: 100%;
@@ -572,14 +572,14 @@ footer.sticky-bottom {
       }
 
       .abbr {
-        height: 1rem;
+        height: 1.5rem;
         margin-bottom: 0.5rem;
 
         abbr {
           display: inline-block;
           background-color: var(--global-theme-color);
-          padding-left: 1rem;
-          padding-right: 1rem;
+          padding-left: 1.5rem;
+          padding-right: 1.5rem;
 
           a {
             color: white;
@@ -631,8 +631,8 @@ footer.sticky-bottom {
         a.btn {
           color: var(--global-text-color);
           border: 1px solid var(--global-text-color);
-          padding-left: 1rem;
-          padding-right: 1rem;
+          padding-left: 1.5rem;
+          padding-right: 1.5rem;
           padding-top: 0.25rem;
           padding-bottom: 0.25rem;
           margin-left: 0;
@@ -704,7 +704,7 @@ footer.sticky-bottom {
 
 // Rouge Color Customization
 figure.highlight {
-  margin: 0 0 1rem;
+  margin: 0 0 1.5rem;
 }
 
 pre {
@@ -751,7 +751,7 @@ html.transition *:after {
     color: var(--global-text-color-light);
     font-size: 0.875rem;
     padding-top: 0.25rem;
-    padding-bottom: 1rem;
+    padding-bottom: 1.5rem;
 
     a {
       color: var(--global-text-color-light);
