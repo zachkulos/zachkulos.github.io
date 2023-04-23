@@ -219,7 +219,7 @@ blockquote {
   }
 }
 .post-description {
-  margin-bottom: 2rem;
+  margin-bottom: 1rem;
   font-size: 0.875rem;
 }
 .post-description a {
@@ -337,7 +337,7 @@ blockquote {
   text-align: center;
 }
 .social .contact-icons {
-  font-size: 2rem;
+  font-size: 1rem;
 }
 .social .contact-icons a i::before {
   color: var(--global-text-color);
@@ -398,7 +398,7 @@ footer.sticky-bottom {
 .header-bar {
   border-bottom: 1px solid var(--global-divider-color);
   text-align: center;
-  padding-top: 2rem;
+  padding-top: 1rem;
   padding-bottom: 3rem;
 }
 .header-bar h1 {
@@ -431,8 +431,8 @@ footer.sticky-bottom {
 .post-list li {
   border-bottom: 1px solid var(--global-divider-color);
   list-style: none;
-  padding-top: 2rem;
-  padding-bottom: 2rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
 }
 .post-list li .post-meta {
   color: var(--global-text-color-light);
@@ -498,17 +498,17 @@ footer.sticky-bottom {
   color: var(--global-divider-color);
   border-bottom: 1px solid var(--global-divider-color);
   padding-top: 0.5rem;
-  margin-top: 2rem;
+  margin-top: 1rem;
   margin-bottom: 1rem;
   text-align: right;
 }
 
 .publications {
-  margin-top: 2rem;
+  margin-top: 1rem;
 }
 .publications h1 {
   color: var(--global-theme-color);
-  font-size: 2rem;
+  font-size: 1rem;
   text-align: center;
   margin-top: 1em;
   margin-bottom: 1em;
@@ -523,8 +523,8 @@ footer.sticky-bottom {
   color: var(--global-divider-color);
   border-top: 1px solid var(--global-divider-color);
   padding-top: 1rem;
-  margin-top: 2rem;
-  margin-bottom: -2rem;
+  margin-top: 1rem;
+  margin-bottom: -1rem;
   text-align: right;
 }
 .publications ol.bibliography {
@@ -541,7 +541,7 @@ footer.sticky-bottom {
   max-width: 200px;
 }
 .publications ol.bibliography li .abbr {
-  height: 2rem;
+  height: 1rem;
   margin-bottom: 0.5rem;
 }
 .publications ol.bibliography li .abbr abbr {
