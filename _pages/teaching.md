@@ -7,13 +7,13 @@ nav: true
 nav_order: 5
 ---
 
-### University of Chicago
+#### University of Chicago
 
 **ECON 25530 - Behavioral Development Economics**
 
 *Winter 2023:* TA under Prof. Anne Karing
 
-### Michigan State University
+#### Michigan State University
 
 **EC 202 - Introduction to Macroeconomics**
 
