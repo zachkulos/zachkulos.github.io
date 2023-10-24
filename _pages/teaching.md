@@ -9,6 +9,7 @@ nav_order: 5
 
 #### University of Chicago
 **ECON 35550 - The Practicalities of Running Randomized Control Trials (Graduate Level)**
+
 *Fall 2023:* TA under Prof. Rachel Glennerster
 
 **ECON 25530 - Behavioral Development Economics (Undergraduate Level)**
