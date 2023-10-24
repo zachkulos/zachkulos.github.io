@@ -22,7 +22,7 @@ social: true # includes social icons at the bottom of the page
 ### Welcome!
 I am a second-year Ph.D. student at the University of Chicago Economics Department, working also with the Development Innovation Lab at UChicago. 
 
-My research interests lie broadly in behavioral development. Particular areas of focus concern the role of social signaling and norms in healthcare provisioning, prosocial preferences, and informal firm behavior. 
+My research interests lie broadly in behavioral development. Particular areas of focus concern the role of social signaling and norms in healthcare provisioning, electricity provision and reliability, and informal firm behavior. 
 
 Prior to graduate school, I worked as a Senior Research Analyst at the Federal Reserve Bank of New York and as a Visiting Researcher at the Economic Policy Research Institute in Cape Town, South Africa. I completed my undergraduate education at Michigan State University and am originally from Buffalo, NY. 
 
