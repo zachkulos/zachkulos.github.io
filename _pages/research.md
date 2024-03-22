@@ -6,7 +6,7 @@ description:
 nav: true
 nav_order: 1
 ---
-### works in progress
+### works in progress  
 
 **The Persistent Effects of Social Signals for Childhood Immunization** with Juliette Finetti and Anne Karing  
 **Small Firm Impacts of Electricity Reliability and Planned Outages** with Rowan Clarke and Jun Wong  
@@ -14,8 +14,9 @@ nav_order: 1
 **Casual Labor Sharing in Urban Uganda**  
 
 ### awarded grants  
-**CEPR-STEG PhD Research Grant** Data Collection Grant for South Africa Electricity Projects - $19,000
-**IGC Small Research Grant** Pilot Grant for Uganda Firm Research - $33,000
+
+**CEPR-STEG PhD Research Grant** Data Collection Grant for South Africa Electricity Projects - $19,000  
+**IGC Small Research Grant** Pilot Grant for Uganda Firm Research - $33,000  
 **Weiss Development Fund** Pilot Grant for South Africa Electricity Projects - $15,000  
 **Weiss Development Fund** Pilot Grant for Uganda Firm Research - $14,500  
 **J-PAL King Climate Action Initiative (KCAI)** Proposal Development Grant - $9,090  
