@@ -8,7 +8,7 @@ nav_order: 5
 ---
 
 #### University of Chicago
-**ECON 35650 - Behavrioal Development Economics (PhD Field Course)**
+**ECON 35650 - Behavrioal Development Economics (PhD Field Course)**  
 *Spring 2024:* TA under Prof. Anne Karing
 
 **ECON 35550 - The Practicalities of Running Randomized Control Trials (PhD Field Course)**  
@@ -16,7 +16,7 @@ nav_order: 5
 
 **ECON 25530 - Behavioral Development Economics (Undergraduate Level)**  
 *Winter 2023:* TA under Prof. Anne Karing  
-*Spring 2024:* TA under Prof. Anne Karing
+*Spring 2024:* TA under Prof. Anne Karing  
 
 
 #### Michigan State University
