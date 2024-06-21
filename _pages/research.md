@@ -37,7 +37,7 @@ We examine the impact of incentives on intrinsic motivation after their removal.
 
 ### awarded grants  
 
-**J-PAL King Climate Action Initiative (KCAI)** Pilot Grant - $22,760
+**J-PAL King Climate Action Initiative (KCAI)** Pilot Grant - $22,760  
 **CEPR-STEG PhD Research Grant** Data Collection Grant - $19,000  
 **IGC Small Research Grant** Pilot Grant for Uganda Firm Research - $33,000  
 **Weiss Development Fund** Pilot Grant for South Africa Electricity Projects - $15,000  
