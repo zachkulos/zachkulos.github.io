@@ -33,7 +33,7 @@ We examine the impact of incentives on intrinsic motivation after their removal.
 ### works in progress  
 
 **Subsidies in the Presence of Informality** with Jun Wong <i>(pilot in progress)</i>  
-**Labor Input Sharing in Urban Uganda**  
+**Firm Financial Frictions and Informal Labor Contracts in Urban Uganda**
 
 ### awarded grants  
 
