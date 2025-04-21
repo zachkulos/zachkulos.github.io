@@ -33,14 +33,16 @@ We examine the impact of incentives on intrinsic motivation after their removal.
 ### works in progress  
 
 **Subsidies in the Presence of Informality** with Jun Wong <i>(pilot in progress)</i>  
-**Firm Financial Frictions and Informal Labor Contracts in Urban Uganda**
+**Firm Financial Frictions and Network Hiring in Urban Uganda**
+**Job Seekers' Beliefs and Labor Market Demand** with Erin M. Kelley, Gregory Lane, Harry Moroz, Mohit Negi, and Evelyn Vezza <i>(pilot in progress)</i>  
 
 ### awarded grants  
 
-**J-PAL King Climate Action Initiative (KCAI)** Pilot Grant - $22,760  
+**Weiss Fund for Development Economics** Implementation Grant - $25,000  
+**J-PAL King Climate Action Initiative (K-CAI)** Pilot Grant - $22,760  
 **CEPR-STEG PhD Research Grant** Data Collection Grant - $19,000  
 **IGC Small Research Grant** Pilot Grant for Uganda Firm Research - $33,000  
-**Weiss Development Fund** Pilot Grant for South Africa Electricity Projects - $15,000  
-**Weiss Development Fund** Pilot Grant for Uganda Firm Research - $14,500  
+**Weiss Fund for Development Economics** Pilot Grant for Electricity Projects - $15,000  
+**Weiss Fund for Development Economics** Pilot Grant for Uganda Firm Research - $14,500  
 **J-PAL King Climate Action Initiative (KCAI)** Proposal Development Grant - $9,090  
 **UChicago Development Economics Reserach Fund** Exploratory Travel Grant - $5,000  
