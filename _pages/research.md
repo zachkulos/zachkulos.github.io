@@ -32,12 +32,13 @@ We examine the impact of incentives on intrinsic motivation after their removal.
 
 ### works in progress  
 
-**Subsidies in the Presence of Informality** with Jun Wong <i>(pilot in progress)</i>  
 **Firm Financial Frictions and Network Hiring in Urban Uganda**  
+**Subsidies in the Presence of Informality** with Jun Wong <i>(pilot in progress)</i>  
 **Job Seekers' Beliefs and Labor Market Demand** with Erin M. Kelley, Gregory Lane, Harry Moroz, Mohit Negi, and Evelyn Vezza <i>(pilot in progress)</i>  
 
 ### awarded grants  
 
+**Center for International Social Science Research** Lloyd and Susanne Rudolph Field Research Award - $5,000  
 **Weiss Fund for Development Economics** Implementation Grant - $25,000  
 **J-PAL King Climate Action Initiative (K-CAI)** Pilot Grant - $22,760  
 **CEPR-STEG PhD Research Grant** Data Collection Grant - $19,000  
