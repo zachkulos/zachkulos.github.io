@@ -32,9 +32,9 @@ We examine the impact of incentives on intrinsic motivation after their removal.
 
 ### works in progress  
 
-**Firm Financial Frictions and Network Hiring in Urban Uganda**  
-**Subsidies in the Presence of Informality** with Jun Wong <i>(pilot in progress)</i>  
-**Job Seekers' Beliefs and Labor Market Demand** with Erin M. Kelley, Gregory Lane, Harry Moroz, Mohit Negi, and Evelyn Vezza <i>(pilot in progress)</i>  
+**Labor Input Sharing in Urban Uganda**  
+**The Economics of Informal Electricity Connections** with Jun Wong <i>(pilot in progress)</i>  
+**Job Seekers' Beliefs and Labor Market Demand** with Erin M. Kelley, Gregory Lane, Harry Moroz, Mohit Negi, and Evelyn Vezza <i>(field work progress)</i>  
 
 ### awarded grants  
 

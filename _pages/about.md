@@ -20,7 +20,7 @@ social: true # includes social icons at the bottom of the page
 ---
 
 ### Welcome!
-I am a fourth-year Ph.D. student at the University of Chicago Economics Department, focusing primarily on topics in the overlap of development and labor economics. Particular areas of focus are informal firm behavior and worker job search in low- and middle-income countries. 
+I am a Ph.D. Candidate at the University of Chicago Economics Department, focusing primarily on topics in development and labor economics. Particular areas of focus are informal firm behavior and worker job search in low- and middle-income countries. 
 
 Prior to graduate school, I worked as a Senior Research Analyst at the Federal Reserve Bank of New York and as a Visiting Researcher at the Economic Policy Research Institute in Cape Town, South Africa. I completed my undergraduate education at Michigan State University and am originally from Buffalo, NY. 
 
