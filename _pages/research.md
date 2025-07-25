@@ -34,7 +34,7 @@ We examine the impact of incentives on intrinsic motivation after their removal.
 
 **Labor Input Sharing in Urban Uganda**  
 **The Economics of Informal Electricity Connections** with Jun Wong <i>(pilot in progress)</i>  
-**Job Seekers' Beliefs and Labor Market Demand** with Erin M. Kelley, Gregory Lane, Harry Moroz, Mohit Negi, and Evelyn Vezza <i>(field work progress)</i>  
+**Job Seekers' Beliefs and Labor Market Demand** with Erin M. Kelley, Gregory Lane, Harry Moroz, Mohit Negi, and Evelyn Vezza, <i>Revise and Resubmit, Journal of Development Economics Registered Reports</i>  
 
 ### awarded grants  
 
