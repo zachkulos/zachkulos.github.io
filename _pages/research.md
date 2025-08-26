@@ -24,9 +24,9 @@ We examine the impact of incentives on intrinsic motivation after their removal.
 </div>
 <br>
 
-<b>Distributional Effects of Blackouts: Evidence from South Africa</b> with Rowan Clarke, Christopher Eaglin, and Jun Wong <i>(draft available soon)</i>  
+<b>Blackouts, Technology Investments, and Market Outcomes: Evidence from South Africa</b> with Rowan Clarke, Christopher Eaglin, and Jun Wong <i>(draft available soon)</i>  
 
-<div style="font-size: smaller; margin-left: 0; padding-left: 30px;">We examine the effects of electricity blackouts and the performance of small- and medium-sized consumer-facing enterprises (SMEs) using South Africa's rotating schedule of blackouts as a natural experiment. Exploiting the quasi-random timing and geography of the load-shedding schedule and linking card-transaction data, we find that blackouts leave aggregate SME revenue unchanged. Revenue is reallocated through customer substitution between firms: baseline high-performing firms capture the spending displaced from lower-performing competitors, gaining roughly nine percent in daily sales while the latter lose a similar share. We find suggestive evidence that this leads to higher exit-rates for baseline lower-performing firms in the long run, accelerating market concentration. When only a subset of businesses can remain open during supply shocks, rotational blackouts widen existing performance gaps, reshape local market structure, and alter firm dynamics even though total spending in the market remains broadly intact.  
+<div style="font-size: smaller; margin-left: 0; padding-left: 30px;">We examine the effects of electricity blackouts on firms, consumers, and market structure in the short and long run using South Africa's rotating schedule of blackouts as a natural experiment and novel transaction-level data. We find that blackouts leave aggregate firm revenue unchanged. Revenue is reallocated through customer substitution between firms: baseline high-performing firms able to invest in defensive technology capture the spending displaced from lower-performing competitors, gaining roughly nine percent in daily sales while the latter lose a similar share. The unequal effects are particularly pronounced when firms are able to anticipate the electricity outages, highlighting the differential adaptation capabilities between firms. This leads to higher exit-rates for baseline lower-performing firms in the long run. 
 </div>  
 <br>
 
@@ -34,7 +34,7 @@ We examine the impact of incentives on intrinsic motivation after their removal.
 
 **Labor Input Sharing in Urban Uganda**  
 **The Economics of Informal Electricity Connections** with Jun Wong <i>(pilot in progress)</i>  
-**Job Seekers' Beliefs and Labor Market Demand** with Erin M. Kelley, Gregory Lane, Harry Moroz, Mohit Negi, and Evelyn Vezza, <i>(Revise and Resubmit, Journal of Development Economics Registered Reports)</i>  
+**Job Seekers' Beliefs and Labor Market Demand** with Erin M. Kelley, Gregory Lane, Harry Moroz, Mohit Negi, and Evelyn Vezza, <i>(Conditionally Accepted, Journal of Development Economics Registered Reports)</i>  
 
 ### awarded grants  
 
