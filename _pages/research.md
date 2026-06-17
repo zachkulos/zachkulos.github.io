@@ -17,6 +17,12 @@ nav_order: 1
 
 ### working papers
 
+<b><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5459197">Reallocation under Rationing: Evidence from Electricity Outages in South Africa</a></b> with Rowan Clarke, Christopher Eaglin, and Jun Wong <i>(under review)</i>
+
+<div style="font-size: smaller; margin-left: 0; padding-left: 30px;">Rationing policies are often designed with equity considerations in mind, yet whether equalizing exposure delivers equal economic impacts remains underexplored. We study electricity outages in South Africa, where rationing equalizes exposure across locations. Combining high frequency outage data with geocoded transactions from over 11,000 firms from 2021 to 2023, we show that equal exposure does not imply equal impact. Average sales remain unchanged, but outages induce reallocation: below-median firms lose roughly 11 percent of average revenue, while above-median firms gain 10 percent. We provide novel evidence that consumer substitution drives these effects and that advance notice amplifies disparities. 
+</div>  
+<br>
+
 <b><a href="https://drive.google.com/file/d/1fIS-njP6Vd0rKRbIr31opUp0YJ12SnhV/view">Incentives and Motivation Crowd-Out: Experimental Evidence from Childhood Immunization</a></b> with Juliette Finetti and Anne Karing  
 
 <div style="font-size: smaller; margin-left: 0; padding-left: 30px;">
@@ -24,16 +30,10 @@ We examine the impact of incentives on intrinsic motivation after their removal.
 </div>
 <br>
 
-<b><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5459197">Firm Adaptation and Reallocation under Rationing: Evidence from South Africa</a></b> with Rowan Clarke, Christopher Eaglin, and Jun Wong
-
-<div style="font-size: smaller; margin-left: 0; padding-left: 30px;">Rationing policies are frequently implemented due to equity concerns. We study whether equitable-exposure rationing rules deliver equal economic impacts in the context of the 2021-2023 power crisis in South Africa. We leverage shocks to outage intensity and a rotational assignment system to generate quasi-random variation in electricity outage exposure, and we combine detailed hour-level outages with geocoded transactions data from a leading payment platform in Cape Town. Although we find that aggregate daily sales do not change on outage days, there is substantial heterogeneity across the firm distribution. Revenue is reallocated through consumers substituting between firms: baseline high-performing firms able to invest in defensive technology capture the spending displaced from their competitors, gaining roughly nine percent in daily sales while the latter lose a similar share. Unequal effects are amplified when firms are able to anticipate electricity outages. The results suggest the impacts of rationing are not equal despite equitable exposure. 
-</div>  
-<br>
-
 ### works in progress  
 
-**Labor Input Sharing in Urban Uganda**  
-**The Economics of Informal Electricity Connections** with Jun Wong <i>(pilot in progress)</i>  
+**Labor Input Sharing in Urban Uganda** <i>(main data collection complete)</i>  
+**The Economics of Informal Electricity Connections** with Jun Wong <i>(main data collection in progress)</i>  
 **Job Seekers' Beliefs and Labor Market Demand** with Erin M. Kelley, Gregory Lane, Harry Moroz, Mohit Negi, and Evelyn Vezza <i>(Conditionally Accepted, Journal of Development Economics Registered Reports)</i>  
 
 ### awarded grants  
