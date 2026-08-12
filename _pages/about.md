@@ -26,6 +26,15 @@ Prior to graduate school, I worked as a Senior Research Analyst at the Federal R
 
 Feel free to contact me [here](mailto:kuloszewski@uchicago.edu).
 
+### Selected Working Papers and Works in Progress
+
+<b>The Labor Market Between Firms: Labor Sharing in Urban Uganda</b> <i>(job market paper)</i>  
+<b><a href="https://www.socialscienceregistry.org/trials/17344">The Economics of Informal Electricity Connections</a></b> with Jun Wong &middot; <a href="https://grp.cepr.org/publications/steg-policy-brief/economics-informal-electricity-connections">policy brief</a>  
+<b><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5459197">Reallocation under Rationing: Evidence from Electricity Outages in South Africa</a></b> with Rowan Clarke, Christopher Eaglin, and Jun Wong <i>(under review)</i>  
+
+<a href="{{ '/research/' | relative_url }}">See all research &rarr;</a>
+
+
 <!--- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. " --->
 
 <!---  "Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically. --->

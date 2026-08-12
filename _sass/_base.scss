@@ -858,3 +858,50 @@ pre {
     opacity: 1;
   }
 }
+
+/*****************************************************************************/
+/*
+/* Collapsible paper abstracts (research page, about page)
+/*
+/*****************************************************************************/
+
+.abstract-toggle {
+  margin-left: 0;
+  padding-left: 30px;
+
+  > summary {
+    cursor: pointer;
+    display: inline-block;
+    list-style: none;
+    font-size: smaller;
+    color: var(--global-theme-color);
+    -webkit-user-select: none;
+    user-select: none;
+
+    &::-webkit-details-marker {
+      display: none;
+    }
+
+    &::before {
+      content: "\25B8";
+      display: inline-block;
+      margin-right: 0.4em;
+      transition: transform 0.15s ease;
+    }
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+
+  &[open] > summary::before {
+    transform: rotate(90deg);
+  }
+
+  .abstract-body {
+    font-size: smaller;
+    margin-top: 0.4em;
+    text-align: justify;
+    color: var(--global-text-color);
+  }
+}
