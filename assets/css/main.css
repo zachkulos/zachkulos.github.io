@@ -1,3 +1,4 @@
+@charset "UTF-8";
 /*******************************************************************************
  * Variables used throughout the theme.
  * To adjust anything, simply edit the variables below and rebuild the theme.
@@ -774,6 +775,46 @@ pre .copy:active, pre .copy:focus, pre .copy:hover {
 pre:active .copy, pre:focus .copy, pre:hover .copy {
   color: var(--global-hover-color);
   opacity: 1;
+}
+
+/*****************************************************************************/
+/*
+/* Collapsible paper abstracts (research page, about page)
+/*
+/*****************************************************************************/
+.abstract-toggle {
+  margin-left: 0;
+  padding-left: 30px;
+}
+.abstract-toggle > summary {
+  cursor: pointer;
+  display: inline-block;
+  list-style: none;
+  font-size: smaller;
+  color: var(--global-theme-color);
+  -webkit-user-select: none;
+  user-select: none;
+}
+.abstract-toggle > summary::-webkit-details-marker {
+  display: none;
+}
+.abstract-toggle > summary::before {
+  content: "▸";
+  display: inline-block;
+  margin-right: 0.4em;
+  transition: transform 0.15s ease;
+}
+.abstract-toggle > summary:hover {
+  text-decoration: underline;
+}
+.abstract-toggle[open] > summary::before {
+  transform: rotate(90deg);
+}
+.abstract-toggle .abstract-body {
+  font-size: smaller;
+  margin-top: 0.4em;
+  text-align: justify;
+  color: var(--global-text-color);
 }
 
 /*******************************************************************************
