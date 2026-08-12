@@ -861,12 +861,36 @@ pre {
 
 /*****************************************************************************/
 /*
-/* Collapsible paper abstracts (research page, about page)
+/* Paper entries with collapsible abstracts (research page, about page)
 /*
 /*****************************************************************************/
 
+/* Research page: one entry = title line + collapsed abstract, kept tight */
+.paper {
+  margin-bottom: 0.9rem;
+
+  .paper-title {
+    margin-bottom: 0.1rem;
+  }
+}
+
+/* Front page: selected papers bulleted list */
+.selected-papers {
+  margin-top: 0;
+  margin-bottom: 1.5rem;
+  padding-left: 1.2rem;
+
+  > li {
+    margin-bottom: 0.9rem;
+  }
+
+  > li:last-child {
+    margin-bottom: 0;
+  }
+}
+
 .abstract-toggle {
-  margin-left: 0;
+  margin: 0;
   padding-left: 30px;
 
   > summary {
@@ -901,6 +925,7 @@ pre {
   .abstract-body {
     font-size: smaller;
     margin-top: 0.4em;
+    margin-bottom: 0.6em;
     text-align: justify;
     color: var(--global-text-color);
   }

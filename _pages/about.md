@@ -20,20 +20,21 @@ social: true # includes social icons at the bottom of the page
 ---
 
 ### Welcome!
-I am a Ph.D. Candidate at the University of Chicago Economics Department, focusing primarily on topics in development and labor economics. Particular areas of focus are informal firm behavior and worker job search in low- and middle-income countries. 
+I am a Ph.D. Candidate at the University of Chicago Economics Department, focusing primarily on topics in development and labor economics. Particular areas of focus are informal firm behavior and worker job search in low- and middle-income countries. I am on the 2026-2027 academic job market.
 
 Prior to graduate school, I worked as a Senior Research Analyst at the Federal Reserve Bank of New York and as a Visiting Researcher at the Economic Policy Research Institute in Cape Town, South Africa. I completed my undergraduate education at Michigan State University and am originally from Buffalo, NY. 
 
 Feel free to contact me [here](mailto:kuloszewski@uchicago.edu).
 
-### Selected Working Papers and Works in Progress
+<h3 class="mt-5">Selected Working Papers and Works in Progress</h3>
 
-<b>The Labor Market Between Firms: Labor Sharing in Urban Uganda</b> <i>(job market paper)</i>  
-<b><a href="https://www.socialscienceregistry.org/trials/17344">The Economics of Informal Electricity Connections</a></b> with Jun Wong &middot; <a href="https://grp.cepr.org/publications/steg-policy-brief/economics-informal-electricity-connections">policy brief</a>  
-<b><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5459197">Reallocation under Rationing: Evidence from Electricity Outages in South Africa</a></b> with Rowan Clarke, Christopher Eaglin, and Jun Wong <i>(under review)</i>  
+<ul class="selected-papers">
+<li><b>The Labor Market Between Firms: Labor Sharing in Urban Uganda</b> <i>(job market paper)</i></li>
+<li><b>The Economics of Informal Electricity Connections</b> with Jun Wong [<a href="https://www.socialscienceregistry.org/trials/17344">AEA RCT Registry</a>] [<a href="https://grp.cepr.org/publications/steg-policy-brief/economics-informal-electricity-connections">policy brief</a>]</li>
+<li><b><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5459197">Reallocation under Rationing: Evidence from Electricity Outages in South Africa</a></b> with Rowan Clarke, Christopher Eaglin, and Jun Wong <i>(under review)</i></li>
+</ul>
 
 <a href="{{ '/research/' | relative_url }}">See all research &rarr;</a>
-
 
 <!--- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. " --->
 
