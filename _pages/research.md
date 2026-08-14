@@ -11,6 +11,7 @@ nav_order: 1
 
 <div class="paper">
 <div class="paper-title"><b>The Labor Market Between Firms: Labor Sharing in Urban Uganda</b></div>
+<div class="paper-links">[<a href="https://www.theigc.org/publications/labour-market-between-firms-how-sharing-workers-shapes-hiring-ugandan-manufacturing">policy brief</a>]</div>
 <details class="abstract-toggle">
 <summary>abstract</summary>
 <div class="abstract-body">
@@ -44,7 +45,8 @@ We investigate the impact of incentives and their removal on parents' decisions 
 <h3 class="mt-4">works in progress</h3>
 
 <div class="paper">
-<div class="paper-title"><b>The Economics of Informal Electricity Connections</b> with Jun Wong <i>(Jun Wong's job market paper)</i> [<a href="https://www.socialscienceregistry.org/trials/17344">AEA RCT Registry</a>] [<a href="https://grp.cepr.org/publications/steg-policy-brief/economics-informal-electricity-connections">policy brief</a>]</div>
+<div class="paper-title"><b>The Economics of Informal Electricity Connections</b> with Jun Wong <i>(Jun Wong's job market paper)</i></div>
+<div class="paper-links">[<a href="https://www.socialscienceregistry.org/trials/17344">AEA RCT Registry</a>] [<a href="https://grp.cepr.org/publications/steg-policy-brief/economics-informal-electricity-connections">policy brief</a>]</div>
 <details class="abstract-toggle">
 <summary>abstract</summary>
 <div class="abstract-body">
@@ -54,7 +56,8 @@ In African cities, households with formal grid connections are informally resell
 </div>
 
 <div class="paper">
-<div class="paper-title"><b>Job Seekers' Beliefs and Labor Market Demand</b> with Erin M. Kelley, Gregory Lane, Harry Moroz, Mohit Negi, and Evelyn Vezza <i>(Registered Report Conditionally Accepted, Journal of Development Economics)</i> [<a href="https://www.socialscienceregistry.org/trials/15801">AEA RCT Registry</a>]</div>
+<div class="paper-title"><b>Job Seekers' Beliefs and Labor Market Demand</b> with Erin M. Kelley, Gregory Lane, Harry Moroz, Mohit Negi, and Evelyn Vezza <i>(Registered Report Conditionally Accepted, Journal of Development Economics)</i></div>
+<div class="paper-links">[<a href="https://www.socialscienceregistry.org/trials/15801">AEA RCT Registry</a>]</div>
 <details class="abstract-toggle">
 <summary>abstract</summary>
 <div class="abstract-body">

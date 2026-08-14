@@ -874,6 +874,13 @@ pre {
   }
 }
 
+/* Supplementary links (policy briefs, registries) sit on their own line under the title */
+.paper-links {
+  margin-top: 0.1rem;
+  margin-bottom: 0.1rem;
+  font-size: smaller;
+}
+
 /* Front page: selected papers bulleted list */
 .selected-papers {
   margin-top: 0;

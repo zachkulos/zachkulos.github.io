@@ -29,8 +29,8 @@ Feel free to contact me [here](mailto:kuloszewski@uchicago.edu).
 <h3 class="mt-5">Selected Working Papers and Works in Progress</h3>
 
 <ul class="selected-papers">
-<li><b>The Labor Market Between Firms: Labor Sharing in Urban Uganda</b> <i>(job market paper)</i></li>
-<li><b>The Economics of Informal Electricity Connections</b> with Jun Wong <i>(Jun Wong's job market paper)</i> [<a href="https://www.socialscienceregistry.org/trials/17344">AEA RCT Registry</a>] [<a href="https://grp.cepr.org/publications/steg-policy-brief/economics-informal-electricity-connections">policy brief</a>]</li>
+<li><b>The Labor Market Between Firms: Labor Sharing in Urban Uganda</b> <i>(job market paper)</i><div class="paper-links">[<a href="https://www.theigc.org/publications/labour-market-between-firms-how-sharing-workers-shapes-hiring-ugandan-manufacturing">policy brief</a>]</div></li>
+<li><b>The Economics of Informal Electricity Connections</b> with Jun Wong <i>(Jun Wong's job market paper)</i><div class="paper-links">[<a href="https://www.socialscienceregistry.org/trials/17344">AEA RCT Registry</a>] [<a href="https://grp.cepr.org/publications/steg-policy-brief/economics-informal-electricity-connections">policy brief</a>]</div></li>
 <li><b><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5459197">Reallocation under Rationing: Evidence from Electricity Outages in South Africa</a></b> with Rowan Clarke, Christopher Eaglin, and Jun Wong <i>(under review)</i> [<a href="https://www.hbs.edu/faculty/Pages/item.aspx?num=68921">HBS WP Series</a>] [<a href="https://econrsa.org/publications/firm-adaptation-and-reallocation-under-rationing-evidence-from-south-africa/">ERSA WP Series</a>]</li>
 </ul>
 
