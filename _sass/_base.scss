@@ -118,6 +118,9 @@ blockquote {
     margin-bottom: 5px;
     margin-top: 5px;
     font-family: monospace;
+    border: 1px solid var(--global-divider-color);
+    border-radius: 4px;
+    padding: 0.5rem 0.75rem;
 
     p {
       display: inline-block;

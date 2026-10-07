@@ -11,7 +11,7 @@ nav_order: 1
 
 <div class="paper">
 <div class="paper-title"><b>The Labor Market Between Firms: Labor Sharing in Urban Uganda</b></div>
-<div class="paper-links">[<a href="https://www.theigc.org/publications/labour-market-between-firms-how-sharing-workers-shapes-hiring-ugandan-manufacturing">policy brief</a>]</div>
+<div class="paper-links">[draft coming soon] [<a href="https://www.theigc.org/publications/labour-market-between-firms-how-sharing-workers-shapes-hiring-ugandan-manufacturing">policy brief</a>]</div>
 <details class="abstract-toggle">
 <summary>abstract</summary>
 <div class="abstract-body">
