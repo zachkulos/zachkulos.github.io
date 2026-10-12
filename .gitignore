@@ -9,3 +9,6 @@ _site
 Gemfile.lock
 vendor
 
+
+_jmp_staging/*
+!_jmp_staging/README.md

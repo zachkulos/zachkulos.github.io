@@ -1,0 +1,18 @@
+---
+layout: null
+permalink: /jmp/
+sitemap: false
+---
+{% assign jmp = site.static_files | where: "path", "/assets/pdf/Kuloszewski_JMP.pdf" | first %}{% if jmp %}{% assign target = '/assets/pdf/Kuloszewski_JMP.pdf' | relative_url %}{% else %}{% capture target %}{{ '/research/' | relative_url }}#jmp{% endcapture %}{% endif %}<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Zachary Kuloszewski – Job Market Paper</title>
+  <meta http-equiv="refresh" content="0; url={{ target }}">
+  <link rel="canonical" href="{{ target }}">
+  <script>window.location.replace("{{ target }}");</script>
+</head>
+<body>
+  <p>Redirecting to <a href="{{ target }}">{% if jmp %}the job market paper{% else %}the research page{% endif %}</a>…</p>
+</body>
+</html>
