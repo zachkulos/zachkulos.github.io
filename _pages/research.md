@@ -46,7 +46,7 @@ We investigate the impact of incentives and their removal on parents' decisions 
 <h3 class="mt-4">works in progress</h3>
 
 <div class="paper">
-<div class="paper-title"><b>The Economics of Informal Electricity Connections</b> with Jun Wong <i>(Jun Wong's job market paper)</i></div>
+<div class="paper-title"><b>The Value of Informal Markets: Experimental Evidence on Household Electrification in Benin</b> with Jun Wong <i>(Jun Wong's job market paper)</i></div>
 <div class="paper-links">[<a href="https://www.socialscienceregistry.org/trials/17344">AEA RCT Registry</a>] [<a href="https://grp.cepr.org/publications/steg-policy-brief/economics-informal-electricity-connections">policy brief</a>]</div>
 <details class="abstract-toggle">
 <summary>abstract</summary>
