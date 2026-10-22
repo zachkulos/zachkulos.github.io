@@ -24,7 +24,7 @@ In low-income countries, firms face persistent challenges in hiring, such as cos
 
 <div class="paper">
 <div class="paper-title"><b><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5459197">Reallocation under Rationing: Evidence from Electricity Outages in South Africa</a></b> with Rowan Clarke, Christopher Eaglin, and Jun Wong <i>(under review)</i></div>
-<div class="paper-links">[<a href="https://www.hbs.edu/faculty/Pages/item.aspx?num=68921">HBS WP Series</a>] [<a href="https://econrsa.org/publications/firm-adaptation-and-reallocation-under-rationing-evidence-from-south-africa/">ERSA WP Series</a>]</div>
+<div class="paper-links">[<a href="https://www.hbs.edu/faculty/Pages/item.aspx?num=68921">HBS WP Series</a>] [<a href="https://econrsa.org/publications/firm-adaptation-and-reallocation-under-rationing-evidence-from-south-africa/">ERSA WP Series</a>] [<a href="https://econrsa.org/videos/firm-allocation-and-reallocation-under-rationing-evidence-from-south-africa-zachary-kuloszewski/">conference video</a>]</div>
 <details class="abstract-toggle">
 <summary>abstract</summary>
 <div class="abstract-body">
