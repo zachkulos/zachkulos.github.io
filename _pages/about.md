@@ -24,7 +24,7 @@ I am a Ph.D. Candidate in Economics at the University of Chicago, focusing on to
 
 **I am on the 2026-2027 academic job market.**
 
-Feel free to contact me [here](mailto:kuloszewski@uchicago.edu). You can find my CV [here]({{ '/assets/pdf/cv2026oct.pdf' | relative_url }}).
+Feel free to contact me [here](mailto:kuloszewski@uchicago.edu). You can find my CV [here]({{ '/assets/pdf/Kuloszewski_CV.pdf' | relative_url }}).
 
 <h3 class="mt-5">Selected Working Papers and Works in Progress</h3>
 
