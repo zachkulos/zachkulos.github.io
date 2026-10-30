@@ -23,7 +23,18 @@ In low-income countries, firms face persistent challenges in hiring, such as cos
 <h3 class="mt-4">working papers</h3>
 
 <div class="paper">
-<div class="paper-title"><b><a href="https://www.hbs.edu/faculty/Pages/item.aspx?num=68921">Reallocation under Rationing: Evidence from Electricity Outages in South Africa</a></b> with Rowan Clarke, Christopher Eaglin, and Jun Wong</div>
+<div class="paper-title"><b>The Value of Informal Markets: Experimental Evidence on Household Electrification in Benin</b> with Jun Wong <i>(Jun Wong's job market paper)</i></div>
+<div class="paper-links">[draft available soon] [<a href="https://www.socialscienceregistry.org/trials/17344">AEA RCT Registry</a>] [<a href="https://grp.cepr.org/publications/steg-policy-brief/economics-informal-electricity-connections">policy brief</a>]</div>
+<details class="abstract-toggle">
+<summary>abstract</summary>
+<div class="abstract-body">
+In urban Benin, nearly half of all electrified households buy electricity from neighbors, not the distribution company. Similar arrangements are common across sub-Saharan Africa. This paper studies whether the utility's lack of a price menu has limited electricity access and the value of the informal electricity market, whose lower connection fees and higher marginal prices form a menu with the utility's schedule. We randomize connection fee and marginal price subsidies for over 4,000 households. Lower connection fees attract households with lower electricity demand. Formal consumption subsidies expand informal supply. We use the experimental variation in connection fees and marginal prices to estimate an equilibrium model of electricity demand and supply. The informal market raises electrification rates by 29 percent and total surplus by 10 percent through electrifying less wealthy households who use little electricity but value it highly. If the utility offered a similar low-fee schedule alongside its current one, without adding to its losses, electrification rates would rise by 50 percent, and the gain in total surplus would be more than three times the gain from the informal market. The informal market would then unravel. Our results suggest that the lack of a price menu contributes to low electricity access.
+</div>
+</details>
+</div>
+
+<div class="paper">
+<div class="paper-title"><b><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5459197">Reallocation under Rationing: Evidence from Electricity Outages in South Africa</a></b> with Rowan Clarke, Christopher Eaglin, and Jun Wong</div>
 <div class="paper-links">[<a href="https://www.hbs.edu/faculty/Pages/item.aspx?num=68921">HBS WP Series</a>] [<a href="https://econrsa.org/publications/firm-adaptation-and-reallocation-under-rationing-evidence-from-south-africa/">ERSA WP Series</a>] [<a href="https://econrsa.org/videos/firm-allocation-and-reallocation-under-rationing-evidence-from-south-africa-zachary-kuloszewski/">conference video</a>]</div>
 <details class="abstract-toggle">
 <summary>abstract</summary>
@@ -46,23 +57,22 @@ We investigate the impact of incentives and their removal on parents' decisions 
 <h3 class="mt-4">works in progress</h3>
 
 <div class="paper">
-<div class="paper-title"><b>The Value of Informal Markets: Experimental Evidence on Household Electrification in Benin</b> with Jun Wong <i>(Jun Wong's job market paper)</i></div>
-<div class="paper-links">[<a href="https://www.socialscienceregistry.org/trials/17344">AEA RCT Registry</a>] [<a href="https://grp.cepr.org/publications/steg-policy-brief/economics-informal-electricity-connections">policy brief</a>]</div>
-<details class="abstract-toggle">
-<summary>abstract</summary>
-<div class="abstract-body">
-In urban Benin, nearly half of all electrified households buy electricity from neighbors, not the distribution company. Similar arrangements are common across sub-Saharan Africa. This paper studies whether the utility's lack of a price menu has limited electricity access and the value of the informal electricity market, whose lower connection fees and higher marginal prices form a menu with the utility's schedule. We randomize connection fee and marginal price subsidies for over 4,000 households. Lower connection fees attract households with lower electricity demand. Formal consumption subsidies expand informal supply. We use the experimental variation in connection fees and marginal prices to estimate an equilibrium model of electricity demand and supply. The informal market raises electrification rates by 29 percent and total surplus by 10 percent through electrifying less wealthy households who use little electricity but value it highly. If the utility offered a similar low-fee schedule alongside its current one, without adding to its losses, electrification rates would rise by 50 percent, and the gain in total surplus would be more than three times the gain from the informal market. The informal market would then unravel. Our results suggest that the lack of a price menu contributes to low electricity access.
-</div>
-</details>
-</div>
-
-<div class="paper">
 <div class="paper-title"><b>Job Seekers' Beliefs and Labor Market Demand</b> with Erin M. Kelley, Gregory Lane, Harry Moroz, Mohit Negi, and Evelyn Vezza <i>(Registered Report Conditionally Accepted, Journal of Development Economics)</i></div>
 <div class="paper-links">[<a href="https://www.socialscienceregistry.org/trials/15801">AEA RCT Registry</a>]</div>
 <details class="abstract-toggle">
 <summary>abstract</summary>
 <div class="abstract-body">
 Job seekers often face challenges in finding jobs that align with their skills and meet employer demands. To address this, we conduct a randomized controlled trial to evaluate whether artificial intelligence can assist job seekers in two key ways: 1) gaining a clearer understanding of their own skills, and 2) identifying careers that align with their skills and labor market demand. This improved understanding should enable job seekers to make more informed decisions about training programs and career paths, resulting in better labor market outcomes &mdash; such as securing jobs more quickly, staying employed longer, and achieving greater job satisfaction.
+</div>
+</details>
+</div>
+
+<div class="paper">
+<div class="paper-title"><b>Survey Languages and Belief Elicitation</b></div>
+<details class="abstract-toggle">
+<summary>abstract</summary>
+<div class="abstract-body">
+Using variation in translation availability across 9 AfroBarometer waves and enumerator assignment, preliminary results show that survey responses regarding institutions, identity, and interpersonal trust vary when respondents are interviewed in their native language, by a native speaker of their language, or in a colonial language.
 </div>
 </details>
 </div>
