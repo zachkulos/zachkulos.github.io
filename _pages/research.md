@@ -11,7 +11,7 @@ nav_order: 1
 
 <div class="paper" id="jmp">
 <div class="paper-title"><b><a href="{{ '/assets/pdf/Kuloszewski_JMP.pdf' | relative_url }}">The Labor Market Between Firms: Labor Sharing in Urban Uganda</a></b></div>
-<div class="paper-links">{% assign jmp = site.static_files | where: "path", "/assets/pdf/Kuloszewski_JMP.pdf" | first %}{% if jmp %}[<a href="{{ '/assets/pdf/Kuloszewski_JMP.pdf' | relative_url }}">latest draft</a>]{% else %}[draft coming soon]{% endif %} [<a href="https://www.theigc.org/publications/labour-market-between-firms-how-sharing-workers-shapes-hiring-ugandan-manufacturing">policy brief</a>]</div>
+<div class="paper-links">{% assign jmp = site.static_files | where: "path", "/assets/pdf/Kuloszewski_JMP.pdf" | first %}{% if jmp %}[<a href="{{ '/assets/pdf/Kuloszewski_JMP.pdf' | relative_url }}">latest draft</a>]{% else %}[draft coming soon]{% endif %} [<a href="{{ '/assets/pdf/Kuloszewski_JMP_slides.pdf' | relative_url }}">slides</a>] [<a href="https://www.theigc.org/publications/labour-market-between-firms-how-sharing-workers-shapes-hiring-ugandan-manufacturing">policy brief</a>]</div>
 <details class="abstract-toggle">
 <summary>abstract</summary>
 <div class="abstract-body">
